@@ -2,7 +2,7 @@
 title:               Nombre Apellido
 tagline:             'Portafolio PWEB'
 description:         'Portafolio de trabajo individual para la asignatura Proyectos para la web'
-url:                 https://mberasategi.github.io
+url:                 https://git.miren.bz/lanyon/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
