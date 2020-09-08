@@ -1,6 +1,6 @@
 # Setup
 title:               Nombre Apellido
-url:                 https://git.miren.bz/lanyon/
+url:                 https://git.miren.bz/
 author:
   name:              Nombre Apellido
   
@@ -10,7 +10,7 @@ author:
 
 tagline:             'Portafolio PWEB'
 description:         'Portafolio de trabajo individual para la asignatura Proyectos para la web'
-baseurl:             '/lanyon'
+baseurl:             'lanyon'
 paginate:            5
 permalink:           pretty
 
