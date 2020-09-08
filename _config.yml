@@ -1,20 +1,18 @@
 # Setup
 title:               Nombre Apellido
-tagline:             'Portafolio PWEB'
-description:         'Portafolio de trabajo individual para la asignatura Proyectos para la web'
 url:                 https://git.miren.bz/lanyon/
-baseurl:             ''
-paginate:            5
-permalink:           pretty
-
-# About/contact
 author:
   name:              Nombre Apellido
   
 
-
 ## ^^ Añade tu personalización en la parte superior de este archivo ^^ ##
 ## == NO TOCAR A PARTIR DE AQUÍ == ##
+
+tagline:             'Portafolio PWEB'
+description:         'Portafolio de trabajo individual para la asignatura Proyectos para la web'
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
 # Gems
 plugins:
