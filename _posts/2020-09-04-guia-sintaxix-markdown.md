@@ -74,7 +74,7 @@ _Puedes **hacer** combinaciones_
 ![GitHub Logo](/img/octocat.png)
 ```
 
-![GitHub Logo](/img/octocat.png)
+![GitHub Logo](/assets/img/octocat.png)
 
 ## Enlaces
 
