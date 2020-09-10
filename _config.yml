@@ -3,7 +3,13 @@ title:               Nombre Apellido
 url:                 https://DeustoPWEB2020.github.io
 author:
   name:              Nombre Apellido
-  
+
+# Si quieres cambiar el tema (colores) de tu portafolio, hazlo añadiendo 
+
+# Si quieres crear una página estática con contenido, que aparezca
+# enlazada en el menú lateral, duplica el archivo pagina.md y modifica
+# el nombre del archivo y el título. 
+
 
 ## ^^ Añade tu personalización en la parte superior de este archivo ^^ ##
 ## == NO TOCAR A PARTIR DE AQUÍ == ##
