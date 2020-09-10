@@ -5,6 +5,13 @@ author:
   name:              Nombre Apellido
 
 # Si quieres cambiar el tema (colores) de tu portafolio, hazlo añadiendo 
+# la clase CSS correspondiente al elemento <body> en el archivo
+# layouts > default.html, de manera que quede así:
+#
+# <body class="theme-base-08">
+# 
+# Puedes ver muestras de los diferentes temas de color en la portada del
+# repositorio en GitHub.
 
 # Si quieres crear una página estática con contenido, que aparezca
 # enlazada en el menú lateral, duplica el archivo pagina.md y modifica
